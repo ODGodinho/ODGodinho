@@ -1,4 +1,4 @@
-<h1 align="center">print("Hey <img src="./assets/Hi.gif" width="35px" /> , I'm Victor ODGodinho 👨‍💻 💻")</h1>
+<h1 align="center">print("Hey <img src="./assets/Hi.gif" width="35px" style="width: 35px;" /> , I'm Victor ODGodinho 👨‍💻 💻")</h1>
 
 <img src="./assets/computer-programming-anime-programming-language-thread-animation-gril.png" width="400px" style="display:block">
 
